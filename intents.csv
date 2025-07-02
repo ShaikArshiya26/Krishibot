@@ -1,0 +1,11 @@
+text,intent
+"Hello, how are you?",greeting
+Hi there!,greeting
+Hey!,greeting
+What is the groundwater level in Kadapa?,predict_gwl
+Can you tell me the water level in Chittoor in May?,predict_gwl
+Give me groundwater prediction for Anantapur during Rabi.,predict_gwl
+Which crop should I grow in Nellore in Kharif?,recommend_crop
+Suggest a crop for Tirupati in Rabi season.,recommend_crop
+What crop is suitable for Srikakulam in summer?,recommend_crop
+Recommend a crop for Kadapa in the monsoon.,recommend_crop

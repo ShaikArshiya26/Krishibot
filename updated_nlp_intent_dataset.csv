@@ -1,0 +1,143 @@
+text,label
+What is the groundwater level in Chittoor?,predict_gwl
+Show me the latest water levels in Kadapa,predict_gwl
+Can you fetch groundwater data for Anantapur?,predict_gwl
+Give me groundwater trends for Nellore,predict_gwl
+Water level status for Rayalaseema region?,predict_gwl
+I want groundwater levels of Tirupati,predict_gwl
+Retrieve past water levels for Chittoor,predict_gwl
+Tell me the borewell depth in Kadapa,predict_gwl
+Current groundwater situation in Anantapur,predict_gwl
+Is groundwater low in Chittoor district?,predict_gwl
+Suggest a crop for Kharif in red soil,recommend_crop
+Which crop grows well in sandy soil in Rayalaseema?,recommend_crop
+Recommend a crop for the upcoming Rabi season,recommend_crop
+Which crop suits Chittoor's weather?,recommend_crop
+What should I plant this season in Anantapur?,recommend_crop
+Best crop for loamy soil?,recommend_crop
+Crops that need less water for Kadapa?,recommend_crop
+Suggest suitable crop for drought conditions,recommend_crop
+I want crop advice for black soil,recommend_crop
+Give me crop recommendation for this monsoon,recommend_crop
+How much rainfall was recorded in Nellore in the past 6 months?,predict_rainfall
+What’s the average rainfall for Anantapur this year?,predict_rainfall
+Rainfall data for Chittoor district,predict_rainfall
+Tell me last year’s rainfall in Kadapa,predict_rainfall
+Recent rainfall stats for Tirupati,predict_rainfall
+Will it rain in Rayalaseema this week?,predict_rainfall
+Get monthly rainfall trend for Chittoor,predict_rainfall
+Any drop in rainfall in Kadapa?,predict_rainfall
+Rainfall pattern in last season,predict_rainfall
+How much precipitation occurred in Nellore?,predict_rainfall
+What’s the current temperature in Kadapa?,predict_temp
+Forecast temperature trends for Tirupati,predict_temp
+Give me the average seasonal temperature in Andhra Pradesh,predict_temp
+Temperature pattern in Chittoor this year,predict_temp
+How hot is it in Rayalaseema today?,predict_temp
+Predicted temperature for next season in Kadapa,predict_temp
+Tell me historical temperature data for Anantapur,predict_temp
+Temperature changes in last 6 months,predict_temp
+Will it be cold next month?,predict_temp
+Summer temperature forecast in Chittoor,predict_temp
+"Hello, are you there?",greet
+"Hi, buddy!",greet
+"Hey chatbot, good to see you",greet
+Good morning!,greet
+Yo!,greet
+Hi!,greet
+Greetings!,greet
+How are you?,greet
+Nice to meet you!,greet
+What's up?,greet
+Bye! Talk to you later,goodbye
+"I’m done, thank you",goodbye
+"Okay, closing now",goodbye
+Catch you later!,goodbye
+See you soon,goodbye
+Goodbye!,goodbye
+"Thanks, that's all",goodbye
+I’ll come back later,goodbye
+Done for now,goodbye
+That’s it for today,goodbye
+Thank you so much for the help!,thanks
+Appreciate your assistance,thanks
+"You’re the best, thanks!",thanks
+Grateful for your support,thanks
+Thanks!,thanks
+Many thanks!,thanks
+Thanks a lot!,thanks
+Cheers!,thanks
+Much appreciated,thanks
+"Good work, thank you!",thanks
+What is the groundwater level in Anantapur?,predict_gwl
+Give me groundwater data for Anantapur,predict_gwl
+Show water level info for Anantapur,predict_gwl
+What is the groundwater level in Chittoor?,predict_gwl
+Give me groundwater data for Chittoor,predict_gwl
+Show water level info for Chittoor,predict_gwl
+What is the groundwater level in Kadapa?,predict_gwl
+Give me groundwater data for Kadapa,predict_gwl
+Show water level info for Kadapa,predict_gwl
+What is the groundwater level in Kurnool?,predict_gwl
+Give me groundwater data for Kurnool,predict_gwl
+Show water level info for Kurnool,predict_gwl
+What is the groundwater level in Nellore?,predict_gwl
+Give me groundwater data for Nellore,predict_gwl
+Show water level info for Nellore,predict_gwl
+What is the groundwater level in Prakasam?,predict_gwl
+Give me groundwater data for Prakasam,predict_gwl
+Show water level info for Prakasam,predict_gwl
+What is the groundwater level in Guntur?,predict_gwl
+Give me groundwater data for Guntur,predict_gwl
+Show water level info for Guntur,predict_gwl
+What is the groundwater level in Krishna?,predict_gwl
+Give me groundwater data for Krishna,predict_gwl
+Show water level info for Krishna,predict_gwl
+What is the groundwater level in West Godavari?,predict_gwl
+Give me groundwater data for West Godavari,predict_gwl
+Show water level info for West Godavari,predict_gwl
+What is the groundwater level in East Godavari?,predict_gwl
+Give me groundwater data for East Godavari,predict_gwl
+Show water level info for East Godavari,predict_gwl
+What is the groundwater level in Visakhapatnam?,predict_gwl
+Give me groundwater data for Visakhapatnam,predict_gwl
+Show water level info for Visakhapatnam,predict_gwl
+What is the groundwater level in Vizianagaram?,predict_gwl
+Give me groundwater data for Vizianagaram,predict_gwl
+Show water level info for Vizianagaram,predict_gwl
+What is the groundwater level in Srikakulam?,predict_gwl
+Give me groundwater data for Srikakulam,predict_gwl
+Show water level info for Srikakulam,predict_gwl
+What is the groundwater level in Nandyal?,predict_gwl
+Give me groundwater data for Nandyal,predict_gwl
+Show water level info for Nandyal,predict_gwl
+What is the groundwater level in Annamayya?,predict_gwl
+Give me groundwater data for Annamayya,predict_gwl
+Show water level info for Annamayya,predict_gwl
+What is the groundwater level in Bapatla?,predict_gwl
+Give me groundwater data for Bapatla,predict_gwl
+Show water level info for Bapatla,predict_gwl
+What is the groundwater level in Eluru?,predict_gwl
+Give me groundwater data for Eluru,predict_gwl
+Show water level info for Eluru,predict_gwl
+What is the groundwater level in Kakinada?,predict_gwl
+Give me groundwater data for Kakinada,predict_gwl
+Show water level info for Kakinada,predict_gwl
+What is the groundwater level in Konaseema?,predict_gwl
+Give me groundwater data for Konaseema,predict_gwl
+Show water level info for Konaseema,predict_gwl
+What is the groundwater level in Palnadu?,predict_gwl
+Give me groundwater data for Palnadu,predict_gwl
+Show water level info for Palnadu,predict_gwl
+What is the groundwater level in Parvathipuram Manyam?,predict_gwl
+Give me groundwater data for Parvathipuram Manyam,predict_gwl
+Show water level info for Parvathipuram Manyam,predict_gwl
+What is the groundwater level in Sri Sathya Sai?,predict_gwl
+Give me groundwater data for Sri Sathya Sai,predict_gwl
+Show water level info for Sri Sathya Sai,predict_gwl
+What is the groundwater level in Tirupati?,predict_gwl
+Give me groundwater data for Tirupati,predict_gwl
+Show water level info for Tirupati,predict_gwl
+What is the groundwater level in Alluri Sitharama Raju?,predict_gwl
+Give me groundwater data for Alluri Sitharama Raju,predict_gwl
+Show water level info for Alluri Sitharama Raju,predict_gwl

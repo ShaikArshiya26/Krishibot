@@ -59,3 +59,29 @@ CGWB – Central Ground Water Board
 IMD – Indian Meteorological Department
 
 ICAR – Indian Council of Agricultural Research
+## 🚀 How to Run KrishiBot Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ShaikArshiya26/Krishibot.git
+   cd Krishibot
+pip install -r requirements.txt
+streamlit run chatbot_web.py
+Open your browser
+Visit http://localhost:8501
+
+---
+
+### 💬 2. Sample Questions Users Can Ask
+
+```markdown
+## 💬 Sample Questions You Can Ask KrishiBot
+
+- What is the groundwater level in Tirupati?
+- Recommend crops for black soil.
+- How much rainfall was recorded in the last 6 months?
+- Suggest crops suitable for my region based on water level.
+- What is the groundwater trend over the last 10 years?
+SCREENSHOT
+"C:\Users\user\Pictures\krishbot interface.PNG"(DEMO SCREENSHOT)
+
